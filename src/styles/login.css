@@ -1,0 +1,14 @@
+.form{
+    border: rgb(13, 17, 15);
+    border-width: 2px;
+}
+
+.centered{
+    width: 380px;
+    height: 330px;
+    border: ridge;
+    margin-top:30px;
+    margin-bottom: auto;
+    margin-left: auto; 
+    margin-right: auto;
+}
